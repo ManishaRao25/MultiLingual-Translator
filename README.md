@@ -23,14 +23,14 @@ The interface allows users to enter text, select the source and target languages
 cd multilingual-translator
 
 2.  **Install Required Libraries**
-Ensure you have the following dependencies installed. You can install them using pip:--python  pip install gradio transformers torch gtts
+Ensure you have the following dependencies installed. You can install them using pip:  ```python pip install gradio transformers torch gtts
 
 3. **Running the Application**
-You can run the translator locally with the following command:--python  python app.py
+You can run the translator locally with the following command:  ```python  python app.py
 
 4. **Using the Translator**
 **Input:** Enter the text you wish to translate.
-Select Source and Target Languages: Choose the languages from the dropdown menu.
+**Select Source and Target Languages:** Choose the languages from the dropdown menu.
 **Output:** You will get the translated text and an audio version of the translation.
 
 ## Code Explanation
