@@ -1,5 +1,8 @@
 # MultiLingual-Translator
 This project is a simple web-based multilingual translator built using Gradio, Transformers, and gTTS (Google Text-to-Speech). It supports translation between English, French, Spanish, German, and Dutch, with the additional feature of generating audio for the translated text.
+![Multilingual Translator Output](![Screenshot 2024-09-18 185247](https://github.com/user-attachments/assets/e0e64114-04ec-46ab-b861-2037d218115f)
+)
+
 
 ## Features
 Text Translation: Translate between five languages:
